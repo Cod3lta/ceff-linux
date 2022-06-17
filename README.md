@@ -8,7 +8,9 @@ J'espère que vous aurez du plaisir à suivre ce cours que j'ai méticuleusement
 
 ## Exercices
 - Regardez la liste de fichiers en dessus du README
-
+- [Serveur Minecraft](https://www.digitalocean.com/community/tutorials/how-to-create-a-minecraft-server-on-ubuntu-22-04)
+- [Serveur Teeworlds](https://www.teeworlds.com/?page=docs&wiki=server_setup)
+- [Serveur Team Fortress 2](https://linuxgsm.com/servers/tf2server/)
 
 ## Ressources
 - [Cheat sheet de commandes Linux](https://linuxconfig.org/linux-commands-cheat-sheet)
