@@ -17,6 +17,8 @@ J'espère que vous aurez du plaisir à suivre ce cours que j'ai méticuleusement
 - [Carte des distributions Linux](https://en.wikipedia.org/wiki/List_of_Linux_distributions#/media/File:Linux_Distribution_Timeline_21_10_2021.svg)
 - [Raccourcis dans le terminal Linux](https://www.makeuseof.com/linux-bash-terminal-shortcuts/)
 
+## Quelques memes (on s'amuse comme on peut hein)
+
 |                                       |     |
 | ------------------------------------- | --- |
 | ![](https://i.imgur.com/eLhvXUbl.png) |     |
